@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=ASUS-VIVOBOOK-P\\SASHASQLSERVER;Database=Shop;Trusted_Connection=True;"
+  }
+}
